@@ -1,0 +1,12 @@
+# GitHub Pages に公開しない制作用ファイル（公開対象は index.html / styles.css / app.js / assets/ のみ）
+.omc/
+prompt_renewal.txt
+run_codex.bat
+run_win.log
+last.txt
+sources.json
+check-site-result.json
+renewal-manifest.json
+qa/
+*.log
+*.bat
